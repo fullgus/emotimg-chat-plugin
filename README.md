@@ -1,6 +1,7 @@
 # Emotimg plugin for ChatGPT
 
-This plugin allows you to send images based on the emotion of the message.
+This plugin sends you a image based on the emotion of the message.
+
 Default character is “Maid-chan”, she is a young maid lady.
 
 ## Usage
