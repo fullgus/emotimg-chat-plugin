@@ -4,6 +4,7 @@ This plugin sends you a image based on the emotion of the message.
 
 Default character is “Maid-chan”, she is a young maid lady.
 
+
 ## Usage
 
 1. Make sure Emotimg plugin is "enabled".
@@ -35,6 +36,12 @@ I would like you to answer as a young lady's maid.
 When there are images, it is preferable to show the image first.
 ```
 
-## Support
+## Links
+
+### Support
 
 Issues, requests, etc. -> https://github.com/fullgus/emotimg-chat-plugin/issues
+
+### For JP users
+
+* [特定商取引法に基づく表記](pages/commerce_disclosure.md)
