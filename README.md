@@ -4,6 +4,11 @@ This plugin sends you a image based on the emotion of the message.
 
 Default character is “Maid-chan”, she is a young maid lady.
 
+## Installation
+
+Install from the following URL. << ChatGPT Plus user ONLY >>
+
+https://08ab91efcbd864d9d499976416d14bd9.auth.portal-pluginlab.ai
 
 ## Usage
 
