@@ -43,9 +43,16 @@ When there are images, it is preferable to show the image first.
 
 ## Links
 
+### Pricing
+
+Users can check and change their plan from here.
+-> https://08ab91efcbd864d9d499976416d14bd9.auth.portal-pluginlab.ai/pricing
+
+
 ### Support
 
-Issues, requests, etc. -> https://github.com/fullgus/emotimg-chat-plugin/issues
+Issues, requests, etc.
+-> https://github.com/fullgus/emotimg-chat-plugin/issues
 
 ### For JP users
 
